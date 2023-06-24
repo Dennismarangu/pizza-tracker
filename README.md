@@ -7,7 +7,7 @@ This is a Rails API for tracking pizza restaurants. It allows you to manage rest
 To get started with the application, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install Ruby (version X.X.X) and Rails (version X.X.X) if you haven't already.
+2. Install Ruby and Rails if you haven't already.
 3. Run bundle install to install the required gems.
 4. Run rails db:migrate to run the database migrations.
 5. (Optional) Run rails db:seed to populate the database with seed data.
